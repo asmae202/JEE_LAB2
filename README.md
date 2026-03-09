@@ -16,7 +16,6 @@
 [🧪 Exercices supplémentaires](#-exercices-supplémentaires)  
 [💡 Concepts clés](#-concepts-clés)  
 [🖼 Diagramme de classes](#-diagramme-de-classes)  
-[📊 Résultats et interprétation](#-résultats-et-interprétation  
 
 
 
@@ -77,13 +76,6 @@ Dans ce TP :
 
 ---
 
-## 📊 Résultats et interprétation
-
-
-## 🖼 Diagramme de classes
-
-<img width="557" height="217" alt="image" src="https://github.com/user-attachments/assets/b0a2f336-6e69-4e05-b85a-cee43208d8e3" />
-
 
 ## 📊 Résultats et interprétation
 
@@ -133,3 +125,9 @@ DI : injection de dépendances automatiquement par Spring
 Qualifiers : choisir l’implémentation spécifique
 
 Profils Spring : activer des beans selon l’environnement
+
+
+## 🖼 Diagramme de classes
+
+<img width="557" height="217" alt="image" src="https://github.com/user-attachments/assets/b0a2f336-6e69-4e05-b85a-cee43208d8e3" />
+
